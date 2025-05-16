@@ -1,5 +1,5 @@
 # trabajo_final
-## Joshua Saenz
+## Joshua Sáenz
 ## Juan Romero
 ## Ernesto Rodriguez
 ## Carlos Torres
